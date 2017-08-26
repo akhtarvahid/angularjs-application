@@ -1,0 +1,20 @@
+{
+  "name": "noesis",
+  "version": "1.0.0",
+  "description": "sigle page application for fibo, prime, palindrome",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-tooltips": "^1.1.10",
+    "angular-ui-router": "0.2.7",
+    "body-parser": "^1.16.1",
+    "express": "^4.13.4",
+    "jquery": "^3.2.1"
+  },
+  "author": "vaheed",
+  "license": "ISC"
+}

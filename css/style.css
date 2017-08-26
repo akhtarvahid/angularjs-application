@@ -1,0 +1,19 @@
+.navbar {
+    border-radius: 0;
+    margin-bottom:0;
+}
+body{
+	 background: lightslategray;
+}
+.navbar-inverse {
+    background-color: rgb(255, 255, 255);
+     border-color: white; 
+    color: black;
+}
+.nav li a{
+	font-weight: 700;
+    font-family: sans-serif;
+}
+.nav li:hover{
+	background-color: grey;
+}
